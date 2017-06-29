@@ -1,1 +1,8 @@
-bod
+body {
+      font-family: Helvetica;
+      text-align: center;
+    }
+.breaks {
+      color: white;
+      background-image: url(./resources/images/the-flatiron-building.png)
+    }
