@@ -4,5 +4,6 @@ body {
     }
 .breaks {
       color: white;
+      background-color: black;
       background-image: url("./resources/images/the-flatiron-building.png");
     }
