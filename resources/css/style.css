@@ -7,3 +7,11 @@ body {
       background-color: black;
       background-image: url("./resources/images/the-flatiron-building.png");
     }
+.hero {
+      background-image: url("./resources/images/the-flatiron-building.png");
+      color: white;
+      }
+h2    {
+      font-family: bold;
+      font-size: 23px;
+      }
